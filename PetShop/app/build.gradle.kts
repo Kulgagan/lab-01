@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.lab1"
+    namespace = "com.example.PetShop"
     compileSdk {
         version = release(37)
     }

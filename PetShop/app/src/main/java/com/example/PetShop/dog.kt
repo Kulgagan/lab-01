@@ -1,4 +1,4 @@
-package com.example.lab1
+package com.example.PetShop
 
 class Dog (name: String, age: Int): Pet(name, age), Pettable {
     override fun speak(): String {
